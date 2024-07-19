@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "title": "Soul",
+            "author": "Author One",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque aliquet erat.",
+            "image": "book-cover1.jpg"
+        },
+        {
+            "title": "Harry Potter",
+            "author": "J.K. Rowling",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque aliquet erat.",
+            "image": "book-cover2.jpg"
+        },
+        {
+            "title": "The Crying Book",
+            "author": "Author Three",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque aliquet erat.",
+            "image": "book-cover3.jpg"
+        },
+        {
+            "title": "The Mind of Leader",
+            "author": "Author Four",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque aliquet erat.",
+            "image": "book-cover4.jpg"
+        }
+    ]
+}
